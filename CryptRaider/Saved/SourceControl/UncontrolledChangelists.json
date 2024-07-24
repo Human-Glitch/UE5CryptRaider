@@ -1,0 +1,13 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"/Users/kodybuss/Unreal Projects/UdemyUE5CryptRaider/CryptRaider/Content/Dungeon.umap",
+				"/Users/kodybuss/Unreal Projects/UdemyUE5CryptRaider/CryptRaider/Content/MedievalDungeon/Maps/Demonstration.umap"
+			]
+		}
+	]
+}
